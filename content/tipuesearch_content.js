@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is 陳冠宇的網站 \n stage1 我與強者我朋友{黃翊銘}一起共同開發多功能變形家具 \n 陳冠宇 的網站 \n 黃翊銘 的網站 \n stage1 ag22  網站 \n \n', 'tags': '', 'url': 'About.html'}, {'title': '討論影片', 'text': '訂定產品方向: https://www.youtube.com/watch?v=2eFuVMeH0Es \n', 'tags': '', 'url': '討論影片.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is 陳冠宇的網站 \n stage1 我與強者我朋友{黃翊銘}一起共同開發多功能變形家具 \n 陳冠宇 的網站 \n 黃翊銘 的網站 \n stage1 ag22  網站 \n', 'tags': '', 'url': 'About.html'}]};
